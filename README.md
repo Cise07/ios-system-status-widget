@@ -10,8 +10,8 @@ The widget displays three info rows:
 2. **Battery** — battery icon, numeric percentage, and a colored progress bar
 3. **Charging state** — "Charging" or "Discharging" with a lightning bolt icon
 
-<img width="250" height="250" alt="IMG_5225" src="https://github.com/user-attachments/assets/4de3901a-f7b5-4910-848e-26b1e95d4c06" />   
-<img width="250" height="250" alt="IMG_5226" src="https://github.com/user-attachments/assets/f3622a16-7425-4c94-bd06-05caee1cd907" />
+<img width="250" height="250" alt="IMG_5225" src="https://github.com/user-attachments/assets/cee0ec08-925f-4f20-892c-c88f457d82e7" />
+<img width="250" height="250" alt="IMG_5226" src="https://github.com/user-attachments/assets/5d221306-5c3b-441f-be6e-2742144769d8" />
 
 ## ✨ Features
 
